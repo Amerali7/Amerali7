@@ -31,10 +31,6 @@ I’m a Developer living in London experienced in building responsive, Applicati
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="auto" width="40" />
 
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="auto" width="40" />
-          
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="auto" width="40"/>
   
 
