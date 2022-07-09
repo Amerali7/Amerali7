@@ -27,7 +27,8 @@ I’m a Developer living in London experienced in building responsive, Applicati
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/visualstudio-plain.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+
 
 <img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
 
@@ -47,7 +48,6 @@ I’m a Developer living in London experienced in building responsive, Applicati
 
 - Next.js
 - GraphQL
-- Contentful
 
 ### Outside of coding I enjoy:
 
