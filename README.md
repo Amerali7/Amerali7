@@ -1,43 +1,50 @@
 # Hi there 👋 I'm Abbas!
 
-I’m a Developer living in London experienced in building responsive, Applications and web applications using Java, Firebase and React. I’m looking to expand my portfolio and collaborate on something new.
+I’m a Developer living in London experienced in building responsive, Applications in Java and Web apps in React. I’m looking to expand my portfolio and collaborate on something new.
 
 ## Skill set:
 
 <p align="left">
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/nodejs-original.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="auto" width="40" />
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/express-original.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="auto" width="40"/>
+ 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="auto" width="40"/>
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/mongodb-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/javascript-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/css3-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/sass-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/react-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/jquery-plain.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/html5-original.svg" height="auto" width="40">
-
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/bootstrap-plain.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="auto" width="40"/>
+          
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="auto" width="40"/>
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="auto" width="40"/>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="auto" width="40" />
+  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="auto" width="40" />
+          
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/redux-original.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="auto" width="40" />
 
-<img src="https://raw.githubusercontent.com/dustin100/dustin100/master/assests/git-original.svg" height="auto" width="40">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="auto" width="40" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="auto" width="40" />
+
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="auto" width="40" />
+          
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="auto" width="40"/>
+  
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="auto" width="40" />
+         
 </p>
 
 ### :technologist: I'm currently working on:
 
-- My React, Express, and Node skills
+- My React, Java, and Node skills
 - Another MERN Stack App
 
 ### :nerd_face: I'm currently learning:
@@ -48,10 +55,12 @@ I’m a Developer living in London experienced in building responsive, Applicati
 
 - Next.js
 - GraphQL
+- Node.js
 
 ### Outside of coding I enjoy:
 
-- Playing video games :video_game:
-- Skateboarding :skateboard:
-- Bowling :bowling:
-- Sci-fi movies/tv shows :vulcan_salute:
+- Playing video games 🎮
+- Football ⚽
+- Photography 📸
+- Design 🎨
+- Movies/Tv shows 🎥
