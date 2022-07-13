@@ -64,4 +64,6 @@ I’m a Developer living in London experienced in building responsive, Applicati
 - Movies/Tv shows 🎥
 
 
+
+
 ![Badge](https://visitor-counter-badge.vercel.app/api/Amerali7/Amerali7)
