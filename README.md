@@ -33,8 +33,6 @@ I’m a Developer living in London experienced in building responsive, Applicati
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="auto" width="40"/>
  
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
- 
  
   
 
@@ -64,3 +62,6 @@ I’m a Developer living in London experienced in building responsive, Applicati
 - Photography 📸
 - Design 🎨
 - Movies/Tv shows 🎥
+
+
+![Badge](https://visitor-counter-badge.vercel.app/api/Amerali7/Amerali7)
