@@ -54,8 +54,7 @@ I’m a Developer and Data Analyst living in London experienced in building resp
 - Next.js
 - GraphQL
 - Node.js
-- Express Js
-- Mongo DB
+- Python
 
 ### Outside of coding I enjoy:
 
