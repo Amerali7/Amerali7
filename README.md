@@ -63,6 +63,7 @@ I’m a Technology Associate and Data Analyst living in London experienced in bu
 - Photography 📸
 - Design 🎨
 - Movies/Tv shows 🎥
+- Financial Market Investment 📈
 
 
 
