@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Abbas!
 
-I’m a Developer and Data Analyst living in London experienced in building responsive, Applications in Java and Web apps in React. I’m looking to expand my portfolio and collaborate on something new.
+I’m a Technology Associate and Data Analyst living in London experienced in building responsive, Applications in Java and Web apps in React. I’m looking to expand my portfolio and collaborate on something new.
 
 ## Skill set:
 
