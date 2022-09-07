@@ -58,11 +58,11 @@ I’m a Technology Associate living in London experienced in building responsive
 
 ### Outside of coding I enjoy:
 
-- Playing video games 🎮
 - Football ⚽
 - Photography 📸
 - Design 🎨
 - Movies/Tv shows 🎥
+- Playing video games 🎮
 - Financial Market Investment 📈
 
 
