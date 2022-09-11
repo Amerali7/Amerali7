@@ -1,6 +1,8 @@
 # Hi there 👋 I'm Abbas!
 
-I’m a Technology Associate living in London who loves programming Applications in Java, Web apps in React and Data Analysis in python. I’m always looking to expand my portfolio and collaborate on something new.
+📍London
+🎓Computer Science @ QMUL
+💻Technology Associate
 
 ## Skill set:
 
