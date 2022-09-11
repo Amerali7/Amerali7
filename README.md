@@ -1,7 +1,9 @@
 # Hi there 👋 I'm Abbas!
 
 📍London
+
 🎓Computer Science @ QMUL
+
 💻Technology Associate
 
 ## Skill set:
