@@ -46,6 +46,7 @@
 
 ### :technologist: I'm currently working on:
 
+- Python Data Analysis and automation
 - My React, Java, and Node skills
 - Another MERN Stack App
 
