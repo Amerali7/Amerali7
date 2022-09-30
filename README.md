@@ -52,7 +52,6 @@
 
 ### :nerd_face: I'm currently learning:
 
-- TypeScript
 - Python
 
 ### :thinking: I want to learn:
@@ -60,6 +59,7 @@
 - Next.js
 - GraphQL
 - Node.js
+- TypeScript
 
 ### Outside of coding I enjoy:
 
