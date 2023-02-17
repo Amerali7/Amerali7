@@ -48,7 +48,6 @@
 
 - Python Data Analysis and automation
 - My React, Java, and Node skills
-- Another MERN Stack App
 
 ### :nerd_face: I'm currently learning:
 
