@@ -4,7 +4,7 @@
 
 🎓Computer Science @ QMUL
 
-💻Technology Associate
+💻Data
 
 ## Skill set:
 
