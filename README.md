@@ -1,10 +1,10 @@
 # Hi there 👋 I'm Abbas!
 
-📍London
+📍 London
 
-🎓Computer Science @ QMUL
+🎓 Computer Science @ QMUL
 
-💻Data
+💻 Data
 
 ## Skill set:
 
